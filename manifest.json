@@ -1,7 +1,7 @@
 {
     "name": "Dev'Coffee",
     "short_name": "DevCoffee",
-    "start_url": "https://luisgar289.github.io/my-first-pwa/index.html",
+    "start_url": "https://luisgar289.github.io/my-first-pwa/",
     "display": "standalone",
     "background_color": "#fdfdfd",
     "theme_color": "#db4938",
@@ -13,7 +13,7 @@
             "sizes": "72x72"
         },
         {
-            "src": "https://github.com/luisgar289/my-first-pwa/blob/icons/icon-96x96.png",
+            "src": "https://github.com/luisgar289/my-first-pwa/icons/icon-96x96.png",
             "type": "image/png",
             "sizes": "96x96"
         },
